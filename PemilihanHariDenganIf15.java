@@ -21,4 +21,4 @@ public class PemilihanHariDenganIf15 {
             System.out.println("Invalid number");
         }
     }
-}
+} 
