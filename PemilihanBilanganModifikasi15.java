@@ -5,7 +5,7 @@ public class PemilihanBilanganModifikasi15 {
         
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Masukkan sebuah angka:  ");
+        System.out.print("Masukkan sebuah angka: ");
         int angka = sc.nextInt();
 
         String hasil = ((angka % 2) == 0) ? ("termasuk bilangan genap") : ("termasuk bilangan ganjil");
